@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1572121608 source:f:\program files\disk problem\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
+1572121610 source:e:\program files\dynammic programing\disk problem\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

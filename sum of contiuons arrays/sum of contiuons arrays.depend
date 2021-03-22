@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571921551 source:f:\program files\sum of contiuons arrays\main.cpp
+	<iostream>
+	<string.h>
+
